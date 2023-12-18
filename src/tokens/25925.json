@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Wrapped KUB",
+    "address": "0xD2363550407493939299dB9d648dBB500711FEfE",
+    "symbol": "KKUB",
+    "decimals": 18,
+    "chainId": 25925,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16093.png"
+  },
+  {
+    "name": "Bitkub-Peg USDT",
+    "address": "0x7D9bE96cB1eCE10782085675Ee70e52da5699BCE",
+    "symbol": "KUSDT",
+    "decimals": 18,
+    "chainId": 25925,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Bitkub-Peg USDC",
+    "address": "0x3C8437713eC9B328FF970E58B017b305a278E9F3",
+    "symbol": "KUSDC",
+    "decimals": 18,
+    "chainId": 25925,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "YES",
+    "address": "0xd8a1287398c2B76fD54F39Ca99181C05d61423D3",
+    "symbol": "YES",
+    "decimals": 18,
+    "chainId": 25925,
+    "logoURI": "https://yestoken.digital/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FYES-orange.3695e744.png&w=96&q=75"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wrapped Ether",
+    "address": "0x40b600C5e104E52bD2ea9EA453bFDFEe7811Ce0B",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 421613,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+  },
+  {
+    "name": "Dai stablecoin",
+    "address": "0x3FC3378D11b7a9187bd20053FbDf6F4D900235f6",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 421613,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "USD Tether",
+    "address": "0x38430d2703246F986685F68E2817CB370F5f3CCD",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 421613,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  }
+]
